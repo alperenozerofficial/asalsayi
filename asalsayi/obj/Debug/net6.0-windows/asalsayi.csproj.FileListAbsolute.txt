@@ -1,0 +1,35 @@
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.exe
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.deps.json
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.runtimeconfig.json
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.dll
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.pdb
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.Form1.resources
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.csproj.GenerateResource.cache
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.AssemblyInfoInputs.cache
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.AssemblyInfo.cs
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.dll
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\refint\asalsayi.dll
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.pdb
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.genruntimeconfig.cache
+C:\Users\Mehmet Emin Çalışkan\source\repos\asalsayi\asalsayi\obj\Debug\net6.0-windows\ref\asalsayi.dll
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.exe
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.deps.json
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.runtimeconfig.json
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.dll
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\bin\Debug\net6.0-windows\asalsayi.pdb
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.csproj.AssemblyReference.cache
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.Form1.resources
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.csproj.GenerateResource.cache
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.AssemblyInfoInputs.cache
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.AssemblyInfo.cs
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.csproj.CoreCompileInputs.cache
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.dll
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\refint\asalsayi.dll
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.pdb
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.genruntimeconfig.cache
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\ref\asalsayi.dll
+C:\Users\alper\Downloads\asalsayi\asalsayi\asalsayi\obj\Debug\net6.0-windows\asalsayi.Properties.Resources.resources
